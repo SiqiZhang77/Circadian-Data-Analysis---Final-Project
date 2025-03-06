@@ -2,4 +2,4 @@ Final Project in School of Mathematics in UOE
 
 Supervisor:  Natalia Bochkina
 
-Team member: Declan Mcnulty, Jiayi Zhai, Siqi Zhang 
+Team members: Declan Mcnulty, Jiayi Zhai, Siqi Zhang 
