@@ -1,4 +1,4 @@
-Final Prpject in School of Mathematics in UOE 
+Final Project in School of Mathematics in UOE 
 
 Supervisor:  Natalia Bochkina
 
